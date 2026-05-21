@@ -347,5 +347,11 @@
     "time_window_hours": 24
   },
   "email": null,
-  "webhook": null
+  "webhook": {
+    "url_env": "HORIZON_WEBHOOK_URL",
+    "platform": "feishu",
+    "layout": "collapsible",
+    "delivery": "summary_and_items",
+    "enabled": true
+  }
 }
