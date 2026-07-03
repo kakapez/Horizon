@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "ali",
-    "model": "glm-5.1",
+    "model": "qwen3.6-max-preview",
     "base_url": null,
     "api_key_env": "ali_api_key",
     "temperature": 0.3,
