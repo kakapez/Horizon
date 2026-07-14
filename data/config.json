@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "ali",
-    "model": "qwen3.6-max-preview",
+    "model": "kimi-k2.6",
     "base_url": null,
     "api_key_env": "ali_api_key",
     "temperature": 0.3,
